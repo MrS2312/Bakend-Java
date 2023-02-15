@@ -1,2 +1,2 @@
 # Bakend-Java
-# Creado por: Jonathan Sánchez
+Programas realizados durante curso de preparacion Full Stack en LaunchX
